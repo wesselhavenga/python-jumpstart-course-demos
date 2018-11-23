@@ -1,4 +1,4 @@
-# Python Jumpstart by Building 10 Apps Course Demos
+ # ! Python Jumpstart by Building 10 Apps Course Demos
 
 This repository contains all the "handout" materials for my [Python Jumpstart by Building 10 Apps course](https://training.talkpython.fm/courses/details/python-language-jumpstart-building-10-apps). This includes **try it yourself** and **finished** versions of the 10 apps. 
 
