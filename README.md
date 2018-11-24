@@ -1,5 +1,7 @@
  # ! Python Jumpstart by Building 10 Apps Course Demos
 
+# Test branching according to Peter
+
 This repository contains all the "handout" materials for my [Python Jumpstart by Building 10 Apps course](https://training.talkpython.fm/courses/details/python-language-jumpstart-building-10-apps). This includes **try it yourself** and **finished** versions of the 10 apps. 
 
 [Register for the course](https://training.talkpython.fm/courses/details/python-language-jumpstart-building-10-apps) and get started mastering Python today.
